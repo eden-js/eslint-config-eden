@@ -1,12 +1,11 @@
 # eslint-config-eden [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-image]
 
-[npm-image]: https://img.shields.io/npm/v/eslint-config-eden.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/eslint-config-eden
-[downloads-image]: https://img.shields.io/npm/dm/eslint-config-eden.svg?style=flat-square
-[downloads-url]: https://npmjs.org/package/eslint-config-eden
+[npm-image]: https://img.shields.io/npm/v/@eden-js/eslint-config-eden.svg?style=flat-square
+[npm-url]: https://www.npmjs.com/package/@eden-js/eslint-config-eden
+[downloads-image]: https://img.shields.io/npm/dm/@eden-js/eslint-config-eden.svg?style=flat-square
+[downloads-url]: https://npmjs.org/package/@eden-js/eslint-config-eden
 
 #### An ESLint [Shareable Config](http://eslint.org/docs/developer-guide/shareable-configs) for [EdenJS](https://github.com/eden-js/eden)
-
 
 ## Install
 
