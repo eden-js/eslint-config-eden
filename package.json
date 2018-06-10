@@ -1,0 +1,28 @@
+{
+  "name": "eslint-config-eden",
+  "version": "1.0.0",
+  "description": "ESLint config for EdenJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eden-js/eslint-config-eden.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "eden",
+    "edenjs"
+  ],
+  "author": "OhYea777",
+  "license": "MIT OR Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/eden-js/eslint-config-eden/issues"
+  },
+  "homepage": "https://github.com/eden-js/eslint-config-eden#readme",
+  "peerDependencies": {
+    "eslint": "^4.19.1"
+  }
+}

@@ -1,0 +1,35 @@
+# Logs
+logs
+
+# Dependency directory
+node_modules
+
+# Debug log from npm
+npm-debug.log
+
+# IDE
+.idea
+.remote-sync.json
+
+# Log and Sentry
+*.log
+*.sentry
+
+# EdenFrame config
+app/config.js
+nginx.conf
+
+# EdenFrame etc
+gulp
+
+# Cache Directory
+app/cache
+
+# Web Directory
+www
+
+# Application bundles
+app/bundles
+
+# Redis
+*.rdb
