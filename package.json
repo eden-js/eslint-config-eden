@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-eden",
+  "name": "@eden-js/eslint-config-eden",
   "version": "1.0.0",
   "description": "ESLint config for EdenJS",
   "main": "index.js",
