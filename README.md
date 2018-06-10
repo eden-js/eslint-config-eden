@@ -13,13 +13,13 @@
 Using NPM:
 
 ```bash
-npm install --save-dev eslint-config-eden
+npm install --save-dev @eden-js/eslint-config-eden
 ```
 
 Using Yarn:
 
 ```bash
-yarn add --dev eslint-config-eden
+yarn add --dev @eden-js/eslint-config-eden
 ```
 
 ## Usage
@@ -31,20 +31,20 @@ To use the EdenJS shareable config, first run this:
 Using NPM:
 
 ```bash
-npm install --save-dev eslint eslint-config-eden
+npm install --save-dev eslint @eden-js/eslint-config-eden
 ```
 
 Using Yarn:
 
 ```bash
-yarn add --dev eslint eslint-config-eden
+yarn add --dev eslint @eden-js/eslint-config-eden
 ```
 
 Then, add this to your .eslintrc file:
 
 ```json
 {
-  "extends": "eden"
+  "extends": "@eden-js/eden"
 }
 ```
 
