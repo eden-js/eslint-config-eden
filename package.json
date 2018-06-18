@@ -1,6 +1,6 @@
 {
   "name": "@eden-js/eslint-config-eden",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "ESLint config for EdenJS",
   "main": "index.js",
   "scripts": {
