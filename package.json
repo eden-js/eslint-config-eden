@@ -1,6 +1,6 @@
 {
   "name": "@eden-js/eslint-config-eden",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "ESLint config for EdenJS",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/eden-js/eslint-config-eden#readme",
   "peerDependencies": {
-    "eslint": "^4.19.1"
+    "eslint": "^5.2.0"
   }
 }
