@@ -76,6 +76,7 @@ module.exports = {
     ],
     'no-await-in-loop': 'off',
     'no-return-await': 'off',
-    'arrow-body-style': 'off'
+    'arrow-body-style': 'off',
+    'no-continue': 'off'
   }
 };
