@@ -54,7 +54,7 @@ module.exports = {
         allow: ['_id'],
         allowAfterThis: true,
         allowAfterSuper: true,
-        enforceInMethodNames: true,
+        enforceInMethodNames: false,
       }
     ],
     'import/no-unresolved': 'off',
