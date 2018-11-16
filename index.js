@@ -57,6 +57,7 @@ module.exports = {
         enforceInMethodNames: true,
       }
     ],
-    'import/no-unresolved': 'off'
+    'import/no-unresolved': 'off',
+    'class-methods-use-this': 'off'
   }
 };
