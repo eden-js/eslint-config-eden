@@ -1,6 +1,6 @@
 {
   "name": "@edenjs/eslint-config-eden",
-  "version": "2.0.0",
+  "version": "2.0.2",
   "description": "ESLint config for EdenJS",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
     "url": "https://github.com/eden-js/eslint-config-eden/issues"
   },
   "homepage": "https://github.com/eden-js/eslint-config-eden#readme",
-  "devDependencies": {
+  "peerDependencies": {
     "eslint": "^5.9.0",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-plugin-import": "^2.14.0",

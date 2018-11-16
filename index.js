@@ -44,8 +44,7 @@ module.exports = {
       {
         "exceptions" : {
           "VariableDeclarator": true,
-          "ImportDeclaration": true,
-          "ignoreEOLComments": false,
+          "ImportDeclaration": true
         }
       }
     ],
