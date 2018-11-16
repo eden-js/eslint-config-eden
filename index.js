@@ -42,9 +42,9 @@ module.exports = {
     'no-multi-spaces'  : [
       'error',
       {
-        "exceptions" : {
-          "VariableDeclarator": true,
-          "ImportDeclaration": true
+        'exceptions' : {
+          'VariableDeclarator': true,
+          'ImportDeclaration': true
         }
       }
     ],
@@ -57,5 +57,6 @@ module.exports = {
         enforceInMethodNames: true,
       }
     ],
+    'import/no-unresolved': 'off'
   }
 };
