@@ -74,6 +74,7 @@ module.exports = {
         message: '`with` is disallowed in strict mode because it makes code impossible to predict and optimize.',
       },
     ],
-    'no-await-in-loop': 'off'
+    'no-await-in-loop': 'off',
+    'no-return-await': 'off'
   }
 };
