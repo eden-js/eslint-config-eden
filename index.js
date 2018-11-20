@@ -59,6 +59,7 @@ module.exports = {
     ],
     'import/no-unresolved'   : 'off',
     'class-methods-use-this' : 'off',
+    'react/no-this-in-sfc'   : 'off',
     'no-restricted-syntax'   : [
       'error',
       {
